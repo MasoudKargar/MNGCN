@@ -28,4 +28,4 @@ This is a python implementation of the MNGCN:
 This sorce Code is for our paper please cite our paper if you use it 
 
 ## Citation
-The Paper URL is <a href="https://arxiv.org/abs/2411.06212"> Link Access </a>
+The Paper is available at <a href="https://arxiv.org/abs/2411.06212"> Link Access </a>
